@@ -222,8 +222,8 @@ def update_txt_files_list(n_clicks, filename):
         return []
 
 
-if __name__ == '__main__':
-    app.run_server(debug=True)
+# if __name__ == '__main__':
+    # app.run_server(debug=True)
 
 # LePeepHole-Chatbot
 
